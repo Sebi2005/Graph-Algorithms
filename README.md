@@ -17,14 +17,15 @@ Matching algorithms:
 Kuhn’s Algorithm (Maximum Bipartite Matching)
 Other:
 Hamiltonian Cycle detection
+
 📁 Project Structure
-GraphA1/
-│
-├── domain.py                      # Graph class implementation
-├── graph.txt                      # Example input graph
-├── prim.py                        # Prim's algorithm
-├── min_cost_walk.py               # Shortest path logic
-├── maximum_bipartite_matching.py  # Kuhn's algorithm
+GraphA1
+
+domain.py                      # Graph class implementation
+graph.txt                      # Example input graph
+prim.py                        # Prim's algorithm
+min_cost_walk.py               # Shortest path logic
+maximum_bipartite_matching.py  # Kuhn's algorithm
 ├── Hamiltonian.py                 # Hamiltonian cycle
 └── ...
 🧠 Concepts Covered
